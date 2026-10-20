@@ -1,0 +1,8 @@
+Epok SDK
+Copyright 2026 Epok
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product depends on PostHog's open-source mobile session replay SDK
+(posthog-ios), Copyright PostHog Inc., licensed under the MIT License
+(Sources/EpokReplay/PostHog-LICENSE.txt). It is used as a pinned dependency.
