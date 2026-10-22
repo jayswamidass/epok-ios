@@ -12,7 +12,7 @@ iOS 15 or later, Swift Package Manager.
 
 ```swift
 // Package.swift
-.package(url: "https://github.com/jayswamidass/epok-ios.git", exact: "0.1.0"),
+.package(url: "https://github.com/epok-cloud/epok-ios.git", exact: "0.1.0"),
 
 // target dependencies:
 .product(name: "EpokRum", package: "epok-ios"),
